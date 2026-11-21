@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+/* “scroll karte waqt upar 5rem (navbar jitni) jagah chhod do”. Ab heading navbar ke theek neeche dikhegi. */
